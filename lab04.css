@@ -1,0 +1,39 @@
+#sc {
+    color: rgb(0, 255, 251);
+ }
+ .special {
+    color: rgb(255, 187, 0);
+ }
+ #list {
+    color: aqua;
+ }
+ #hyperlinks {
+    color: aqua;
+ }
+.table{
+    color: aqua;
+}
+ #images{
+    color: aqua;
+    text-align: center;
+ }
+ .menu a {
+  border:3px solid gray ;
+  padding: 2px;
+ }
+
+ .heading {
+    color: red;
+ }
+ #tables{
+    border: 2px solid;
+ }
+ #tables th,#tables td{
+    border: 2px solid;
+ }
+ p.page{
+    text-align: right;
+ }
+.lmao a{
+    color: black;
+}
