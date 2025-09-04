@@ -1,39 +1,54 @@
 #sc {
-    color: rgb(0, 255, 251);
- }
- .special {
-    color: rgb(255, 187, 0);
- }
- #list {
-    color: aqua;
- }
- #hyperlinks {
-    color: aqua;
- }
-.table{
-    color: aqua;
+   color: rgb(0, 255, 251);
 }
- #images{
-    color: aqua;
-    text-align: center;
- }
- .menu a {
-  border:3px solid gray ;
-  padding: 2px;
- }
+.special {
+   color: rgb(255, 187, 0);
+}
+#list {
+   color: aqua;
+}
+#hyperlinks {
+   color: aqua;
+}
+.table{
+   color: aqua;
+}
+#images{
+   color: aqua;
+   text-align: center;
+}
+.menu a {
+ border:3px solid gray ;
+ padding: 0.2em 0.6em;
+ text-decoration: none;
+}
 
- .heading {
-    color: red;
- }
- #tables{
-    border: 2px solid;
- }
- #tables th,#tables td{
-    border: 2px solid;
- }
- p.page{
-    text-align: right;
- }
+
+.heading {
+   color: red;
+}
+#tables{
+   border: 2px solid;
+}
+#tables th,#tables td{
+   border: 2px solid;
+}
+p.page{
+   text-align: right;
+}
 .lmao a{
-    color: black;
+   color: black;
+}
+aside:hover{
+   background-color: lawngreen;
+}
+.vl {
+   border-left: solid lawngreen;
+   padding-left: 10px;
+}
+aside{
+   background-color: aqua;
+}
+nav:hover a{
+   background-color: aquamarine;
 }
